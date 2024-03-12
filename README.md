@@ -38,10 +38,10 @@ Esse projeto foi desenvolvido com as seguintes ferramentas:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [NOSSO FIGMA](https://www.figma.com/file/pidvCu2Ddg2vutkteW4ego/Untitled?type=design&node-id=32%3A31&mode=design&t=9zaxbJrbtP0sR5gV-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo. <br><br>
+Você pode visualizar o layout do projeto através do [nosso figma](https://www.figma.com/file/pidvCu2Ddg2vutkteW4ego/Untitled?type=design&node-id=32%3A31&mode=design&t=9zaxbJrbtP0sR5gV-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo. <br><br>
 
 ## 🗂️ Organização
-Você pode visualizar a organização do projeto através [NOSSO TRELLO](https://trello.com/invite/b/4wwvfOog/ATTI3431f6d8403d16f261cf6ea117fecdff85E7DBC1/brickin). É necessário ter conta no [Trello](https://trello.com/pt-BR/login) para acessá-lo. <br><br>
+Você pode visualizar a organização do projeto através do [nosso trello](https://trello.com/invite/b/4wwvfOog/ATTI3431f6d8403d16f261cf6ea117fecdff85E7DBC1/brickin). É necessário ter conta no [Trello](https://trello.com/pt-BR/login) para acessá-lo. <br><br>
 
 ## 🖨️ Capturas de tela 
 Aqui podemos observar a tela de [Login](https://github.com/luhFajoli/tcc/assets/117852533/55f90546-8959-4b1c-bd81-95c220f66433) <br><br>
