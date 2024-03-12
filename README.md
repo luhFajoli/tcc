@@ -47,7 +47,7 @@ Você pode visualizar o layout do projeto através [NOSSO FIGMA](https://www.fig
 Você pode visualizar a organização do projeto através [NOSSO TRELLO](https://trello.com/invite/b/4wwvfOog/ATTI3431f6d8403d16f261cf6ea117fecdff85E7DBC1/brickin). É necessário ter conta no [Trello](https://trello.com/pt-BR/login) para acessá-lo.
 
 ## 🖨️ Capturas de tela
-Aqui podemos observar a tela de Login [Login]([image](https://github.com/luhFajoli/tcc/assets/117852533/55f90546-8959-4b1c-bd81-95c220f66433)
+Aqui podemos observar a tela de Login [Login](https://github.com/luhFajoli/tcc/assets/117852533/55f90546-8959-4b1c-bd81-95c220f66433)
 )
 
 ## 👩🏼‍💻👨🏻‍💻 Equipe
