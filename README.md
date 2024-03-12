@@ -5,9 +5,12 @@ Projeto de um aplicativo para facilitar a busca de imóveis para aluguel ou comp
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Ferramentas para o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Capturas de tela</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Equipe</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Como utilizar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -40,8 +43,24 @@ Esse projeto foi desenvolvido com as seguintes ferramentas:
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/pidvCu2Ddg2vutkteW4ego/Untitled?type=design&node-id=32%3A31&mode=design&t=9zaxbJrbtP0sR5gV-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+## Capturas de tela
+![Screenshot 1](screenshot1.png)
+
+## 🫱🏼‍🫲🏼 Equipe
+
+Este projeto é desenvolvido por:
+
+- Leonardo Soares Mazuqueli
+- Luana Fajoli
+- Luana Moreira Santos
+- Sabrina Souza de Rossi
+- Samuel dos Santos Gonçalves
+
+ ## 📱 Como utilizar
+ 
+
 
 
 ---
 
-Feito por Luana Fajoli, Caso tenha alguma dúvida entre em contato pelo meu email ([luanafajoli6440@gmail.com](https://mail.google.com/mail/u/1/#inbox)https://mail.google.com/mail/u/1/#inbox)
+Feito por Luana Fajoli, Caso tenha alguma dúvida entre em contato pelo meu email (luanafajoli6440@gmail.com)
