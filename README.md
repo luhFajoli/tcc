@@ -1,4 +1,5 @@
-# <h1 align="center"> TCC </h1>
+# <h1 align="center"> Brickin </h1>
+# <h4 align="center"> Do tijolo ao seu lar </h4>
 
 <p align="center">
 Projeto de um aplicativo para facilitar a busca de imóveis para aluguel ou compra.
@@ -11,10 +12,6 @@ Projeto de um aplicativo para facilitar a busca de imóveis para aluguel ou comp
   <a href="#-layout">Capturas de tela</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Equipe</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Como utilizar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
-<p align="center">
-  <img alt="License" src="">
 </p>
 
 <br>
