@@ -64,4 +64,4 @@ Este projeto é desenvolvido por:
 
 ---
 
-Feito por Luana Fajoli, Caso tenha alguma dúvida entre em contato pelo meu email (luanafajoli6440@gmail.com)
+Feito por ..., Caso tenha alguma dúvida entre em contato pelo meu email (...)
