@@ -12,35 +12,36 @@ Projeto de um aplicativo para facilitar a busca de imóveis para aluguel ou comp
 </p>
 
 <p align="center">
-  <img alt="License" src="https://www.figma.com/file/pidvCu2Ddg2vutkteW4ego/Untitled?type=design&node-id=32-31&mode=design&t=9zaxbJrbtP0sR5gV-4">
+  <img alt="License" src="">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Calendario da copa" src="./.github/capa.jpg" width="100%">
+  <img alt="" src="" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Ferramentas para o projeto
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes ferramentas:
 
-- HTML e CSS
-- JavaScript
-- Git e Github
+- linguagem de programação:TypeScript
+- Figma
+- Github
+- Draw.io
+- Trello
+- 
 
 ## 💻 Projeto
 
-É um calendário da Copa que mostra os jogos da Copa de 2022.
+É um aplicativo que mostra casas disponíveis na área em que o usuário gostaria.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/pidvCu2Ddg2vutkteW4ego/Untitled?type=design&node-id=32%3A31&mode=design&t=9zaxbJrbtP0sR5gV-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## 📂 Licença
 
-Esse projeto está sob a licença MIT.
 
 ---
 
-Feito por Leonardo Soares Mazuqueli com apoio do projeto da Rocketseat 🎉 [Participe da comunidade deles!](https://discord.gg/rocketseat)
+Feito por Luana Fajoli, Caso tenha alguma dúvida entre em contato pelo meu email ([luanafajoli6440@gmail.com](https://mail.google.com/mail/u/1/#inbox)https://mail.google.com/mail/u/1/#inbox)
