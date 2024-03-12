@@ -22,15 +22,10 @@ Projeto de um aplicativo que visa facilitar a busca de imóveis para aluguel ou 
 
 <br>
 
-<p align="center">
-  <img alt="" src="" width="100%">
-</p>
-
 ## 🚀 Ferramentas para o projeto
 
 Esse projeto foi desenvolvido com as seguintes ferramentas:
 
-- linguagem de programação:TypeScript
 - Figma
 - Github
 - Draw.io
