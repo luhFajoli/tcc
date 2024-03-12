@@ -41,12 +41,15 @@ Esse projeto foi desenvolvido com as seguintes ferramentas:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/pidvCu2Ddg2vutkteW4ego/Untitled?type=design&node-id=32%3A31&mode=design&t=9zaxbJrbtP0sR5gV-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [NOSSO FIGMA](https://www.figma.com/file/pidvCu2Ddg2vutkteW4ego/Untitled?type=design&node-id=32%3A31&mode=design&t=9zaxbJrbtP0sR5gV-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## Capturas de tela
-![Screenshot 1](screenshot1.png)
+## Organização
+Você pode visualizar a organização do projeto através [NOSSO TRELLO](https://trello.com/invite/b/4wwvfOog/ATTI3431f6d8403d16f261cf6ea117fecdff85E7DBC1/brickin). É necessário ter conta no [Trello](https://trello.com/pt-BR/login) para acessá-lo.
 
-## 🫱🏼‍🫲🏼 Equipe
+## 🖨️ Capturas de tela
+![Aqui podemos observar a tela de Login](caminho/para/a/captura/de/tela.png)
+
+## 👩🏼‍💻👨🏻‍💻 Equipe
 
 Este projeto é desenvolvido por:
 
