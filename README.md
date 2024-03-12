@@ -1,8 +1,14 @@
+
+
+ 
  <h1 align="center"> Brickin </h1>
+ <p align="center">
+  <img alt="Logo" src="https://github.com/luhFajoli/tcc/assets/117852533/d1aac033-6f3c-46ef-8db0-c0cc56490073" width="100%">
+</p>
 <h2 align="center"> Do tijolo ao seu lar </h2> <br><br>
 
 <p align="center">
-Projeto de um aplicativo para facilitar a busca de imóveis para aluguel ou compra.
+Projeto de um aplicativo que visa facilitar a busca de imóveis para aluguel ou compra na região .
 </p>
 
 <p align="center">
@@ -29,8 +35,8 @@ Esse projeto foi desenvolvido com as seguintes ferramentas:
 - Github
 - Draw.io
 - Trello
-- 
-
+- VSCode
+  
 ## 💻 Projeto
 
 É um aplicativo que mostra casas disponíveis na área em que o usuário gostaria. <br><br>
