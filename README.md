@@ -1,7 +1,6 @@
 
 
  
- <h1 align="center"> Brickin </h1>
  <p align="center">
   <img alt="Logo" src="brickin-tcc.png" width="50%">
 </p>
