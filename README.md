@@ -7,7 +7,7 @@
 
 
 <p align="center">
-Projeto de um aplicativo que visa facilitar a busca de imóveis para aluguel ou compra na região .
+com o objetivo de simplificar a procura por imóveis disponíveis para locação ou aquisição na área.
 </p>
 
 <p align="center">
