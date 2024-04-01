@@ -3,7 +3,7 @@
  
  <h1 align="center"> Brickin </h1>
  <p align="center">
-  <img alt="Logo" src="" width="10%">
+  <img alt="Logo" src="brickin-tcc.png" width="10%">
 </p>
 <h2 align="center"> Do tijolo ao seu lar </h2> <br><br>
 
