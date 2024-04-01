@@ -3,7 +3,7 @@
  
  <h1 align="center"> Brickin </h1>
  <p align="center">
-  <img alt="Logo" src="https://github.com/luhFajoli/tcc/assets/117852533/d1aac033-6f3c-46ef-8db0-c0cc56490073" width="10%">
+  <img alt="Logo" src="https://chat.google.com/u/0/api/get_attachment_url?url_type=FIFE_URL&content_type=image%2Fpng&attachment_token=AOo0EEV34LEAh1shyTHdW%2FsBBAgpsH03iwIhogvE4Cqp6sgFhQMlGk6BAHz%2BcQR4W%2BZDnI7pBbtKyWnmf1xB%2FI195gH%2BhA%2FjChddCOhhJfSYol%2BNtoDQ43cruZTCWAjwwtMQdbOlNpulOF%2BiBm0vDKKl%2FxiBPdv9TJEtV1EUOK1tMIp7kdzrbqJAtk%2B3%2F36681P5cLJMeHLk6t0ONzSoIYJU1b4b5qwimMQr6Z27MDqoRC%2FBtcHqymnb2UALPd7jAsoBGKQD7JAoygAEX2FegMJeuHQq1jM2obaUFxd%2BzpPrPcaIdG%2F9PMIn8CRqTzRZ7VqptEr%2BlclIy%2FmUGRcgzoKo5uuTb%2FiR6u36rjh81vaoU7vaIgDEY2V5oxuANQiv29RTcejB5KE3X5KtgUzwaYood%2BFA46LNz3l9uXGZSn749dXlK9uoLCAVjRit1JpZeycoLMZ86FN7kpWLV85ebAGC2b2WPbxnHXf09gRzs%2B8wY%2BHYCrIYL7PcYXoo52cE3YJRaW%2BAPRz064KGKPdrNmSK%2FAzv7oW3BkyPz%2FlY8clktmgnmGRpFLQM9OBbpE%2BwDRA%3D&sz=w1920-h945" width="10%">
 </p>
 <h2 align="center"> Do tijolo ao seu lar </h2> <br><br>
 
