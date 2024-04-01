@@ -7,7 +7,7 @@
 
 
 <p align="center">
-com o objetivo de simplificar a procura por imóveis disponíveis para locação ou aquisição na área.
+Desenvolvimento de um app com o objetivo de simplificar a procura por imóveis disponíveis para locação ou aquisição na área.
 </p>
 
 <p align="center">
@@ -33,17 +33,17 @@ Esse projeto foi desenvolvido com as seguintes ferramentas:
   
 ## 💻 Projeto
 
-É um aplicativo que mostra casas disponíveis na área em que o usuário gostaria. <br><br>
+Trata-se de uma ferramenta digital que exibe residências disponíveis na região desejada pelo usuário.. <br><br>
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através do [nosso figma](https://www.figma.com/file/pidvCu2Ddg2vutkteW4ego/Untitled?type=design&node-id=32%3A31&mode=design&t=9zaxbJrbtP0sR5gV-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo. <br><br>
+É possível ver o design do projeto por meio do seguinte [figma](https://www.figma.com/file/pidvCu2Ddg2vutkteW4ego/Untitled?type=design&node-id=32%3A31&mode=design&t=9zaxbJrbtP0sR5gV-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo. <br><br>
 
 ## 🗂️ Organização
-Você pode visualizar a organização do projeto através do [nosso trello](https://trello.com/invite/b/4wwvfOog/ATTI3431f6d8403d16f261cf6ea117fecdff85E7DBC1/brickin). É necessário ter conta no [Trello](https://trello.com/pt-BR/login) para acessá-lo. <br><br>
+É possível ver o design do projeto por meio do seguinte [trello](https://trello.com/invite/b/4wwvfOog/ATTI3431f6d8403d16f261cf6ea117fecdff85E7DBC1/brickin). É necessário ter conta no [Trello](https://trello.com/pt-BR/login) para acessá-lo. <br><br>
 
 ## 🖨️ Capturas de tela 
-Aqui podemos observar a tela de [Login](https://github.com/luhFajoli/tcc/assets/117852533/55f90546-8959-4b1c-bd81-95c220f66433) <br><br>
+Aqui, temos a visualização da tela  [Login](https://github.com/luhFajoli/tcc/assets/117852533/55f90546-8959-4b1c-bd81-95c220f66433) <br><br>
 
 
 ## 👩🏼‍💻👨🏻‍💻 Equipe
