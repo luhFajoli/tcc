@@ -6,7 +6,7 @@
 </p>
 
  <p align="center">
-  <img alt="slogan" src="lar-tcc.png" width="40%">
+  <img alt="slogan" src="lar-tcc.png" width="20%">
 </p>
 
 
