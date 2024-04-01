@@ -3,10 +3,9 @@
  
  <p align="center">
   <img alt="Logo" src="brickin-tcc.png" width="50%">
-</p>
 
  <p align="center">
-  <img alt="slogan" src="lar-tcc.png" width="20%">
+  <img alt="slogan" src="lar-tcc.png" width="25%">
 </p>
 
 
