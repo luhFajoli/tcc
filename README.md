@@ -4,7 +4,11 @@
  <p align="center">
   <img alt="Logo" src="brickin-tcc.png" width="50%">
 </p>
-<h2 align="center"> Do tijolo ao seu lar </h2> <br><br>
+
+ <p align="center">
+  <img alt="slogan" src="lar-tcc.png" width="40%">
+</p>
+
 
 <p align="center">
 Projeto de um aplicativo que visa facilitar a busca de imóveis para aluguel ou compra na região .
