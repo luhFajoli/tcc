@@ -51,7 +51,7 @@ Aqui, temos a visualização da tela  [Login](https://github.com/luhFajoli/tcc/a
 Este projeto é desenvolvido por:
 
 - Leonardo Soares Mazuqueli
-- [Luana Fajoli](eu)
+- [Luana Fajoli](euzinha.jpeg)
 - Luana Moreira Santos
 - Sabrina Souza de Rossi
 - Samuel dos Santos Gonçalves
