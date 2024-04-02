@@ -50,7 +50,7 @@ Aqui, temos a visualização da tela  [Login](https://github.com/luhFajoli/tcc/a
 
 Este projeto é desenvolvido por:
 
-- Leonardo Soares Mazuqueli
+- Leonardo Soares Mazuqueli [Login]()(https://media-gru2-2.cdn.whatsapp.net/v/t61.24694-24/409784409_746370774014257_4870761390024127517_n.jpg?ccb=11-4&oh=01_ASCz4ojZu_6qVoEttJroLbrN5z0m-lFS1Nm9Z4_DYuTAnA&oe=6619679B&_nc_sid=e6ed6c&_nc_cat=107)
 - Luana Fajoli
 - Luana Moreira Santos
 - Sabrina Souza de Rossi
